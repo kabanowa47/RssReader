@@ -13,7 +13,11 @@ import java.net.URL;
 
             URL url = new URL("http://www.scarletgothica.com/rss_en.php");
 
-            Feed feed = FeedParser.parse(url);
+            // Tutaj czegoś brakowało
+            
+            FeedPareser feedParser = new FeedParser();
+            
+            Feed feed = feedParser.parse(url); // FeedParser.parse(url);
 
             System.out.println("** HEADER **");
             FeedHeader header = feed.getHeader();
