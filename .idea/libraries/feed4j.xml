@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feed4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/feed4j-1.0/feed4j-1.0/feed4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
