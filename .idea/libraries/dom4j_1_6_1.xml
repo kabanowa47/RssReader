@@ -5,7 +5,6 @@
       <root url="jar://$PROJECT_DIR$/feed4j-1.0/feed4j-1.0/lib/nekohtml.jar!/" />
       <root url="jar://$PROJECT_DIR$/feed4j-1.0/feed4j-1.0/lib/xercesImpl.jar!/" />
       <root url="jar://$PROJECT_DIR$/feed4j-1.0/feed4j-1.0/lib/xml-apis.jar!/" />
-      <root url="jar://$PROJECT_DIR$/feed4j-1.0/feed4j-1.0/feed4j.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
